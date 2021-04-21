@@ -35,7 +35,7 @@ https://app.rs.school/certificate/8y7byf39
 - Self-management
 
 ### Tools
-Win10, VSCode, Photoshop, Trello, Figma, 
+Win10, VSCode, Photoshop, Trello, Figma
 
 ### Портфолио
 - Social network (тестовый проект социальной сети)
