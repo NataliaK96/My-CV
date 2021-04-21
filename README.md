@@ -37,7 +37,7 @@ https://app.rs.school/certificate/8y7byf39
 ### Tools
 Win10, VSCode, Photoshop, Trello, Figma, 
 
-### Мои проекты
+### Портфолио
 - Social network (тестовый проект социальной сети)
 
 Repository: https://github.com/NataliaK96/social-network
