@@ -19,16 +19,30 @@
 https://app.rs.school/certificate/8y7byf39
 
 ### Навыки
- HTML(HTML5), JavaScript, ES6, CSS(CSS3), SASS, React, Git, Адаптивный веб-дизайн, Кроссбраузерная верстка, Self-management
+- HTML(HTML5)
+- CSS(CSS3)
+- JavaScript (ES6)
+- TypeScript
+- Git
+- Адаптивный веб-дизайн, Кроссбраузерная верстка
+- Препроцессоры (SCSS/SASS)
+- React (react-router-dom, create-react-app)
+- ESLint, Prettier
+- Redux, redux-thunk, redux-form, reselect
+- axios
+- MobX, MST
+- Bootstrap, Material-UI, Ant Design
+- Self-management
 
 ### Tools
-Photoshop, Bootstrap, Material-UI, Ant Design, Trello, Figma, Prettier
-
-Есть навыки работы с REST API, TypeScript, MobX, MST, Redux
-При работе с сервером использовала fetch, axios
-При работе с Redux использовала redux-thunk, redux-form, reselect
+Win10, VSCode, Photoshop, Trello, Figma, 
 
 ### Мои проекты
+- Social network (тестовый проект социальной сети)
+
+Repository: https://github.com/NataliaK96/social-network
+
+Для разработки использовались: React, Redux, redux-thunk, redux-form, reselect, axios, SASS, Material-UI
 
 - Roll delivery https://roll-delivery.netlify.app/
 
@@ -41,12 +55,6 @@ Repository: https://github.com/NataliaK96/roll-delivery
 Repository: https://github.com/NataliaK96/todolist
 
 Для разработки использовались: React, MobX, TypeScript, Material-UI
-
-- Social network
-
-Repository: https://github.com/NataliaK96/social-network
-
-Для разработки использовались: React, Redux, redux-thunk, redux-form, reselect, axios, SASS, Material-UI
 
 - Songbird game https://nataliak96-songbird.netlify.app/
 
