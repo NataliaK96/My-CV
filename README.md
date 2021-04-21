@@ -38,25 +38,25 @@ https://app.rs.school/certificate/8y7byf39
 Win10, VSCode, Photoshop, Trello, Figma
 
 ### Портфолио
-- Social network (тестовый проект социальной сети)
+* **Social network** (тестовый проект социальной сети)
 
 Repository: https://github.com/NataliaK96/social-network
 
 Для разработки использовались: React, Redux, redux-thunk, redux-form, reselect, axios, SASS, Material-UI
 
-- Roll delivery https://roll-delivery.netlify.app/
+* **Roll delivery** https://roll-delivery.netlify.app/
 
 Repository: https://github.com/NataliaK96/roll-delivery
 
 Для разработки использовались: React, MobX, MST, TypeScript, Ant Design
 
-- Todolist https://todolist-nataliak96.netlify.app/
+* **Todolist** https://todolist-nataliak96.netlify.app/
 
 Repository: https://github.com/NataliaK96/todolist
 
 Для разработки использовались: React, MobX, TypeScript, Material-UI
 
-- Songbird game https://nataliak96-songbird.netlify.app/
+* **Songbird game** https://nataliak96-songbird.netlify.app/
 
 Repository: https://github.com/NataliaK96/songbird
 
