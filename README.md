@@ -44,19 +44,25 @@ Repository: https://github.com/NataliaK96/social-network
 
 Для разработки использовались: React, Redux, redux-thunk, redux-form, reselect, axios, SASS, Material-UI
 
-* **Roll delivery** https://roll-delivery.netlify.app/
+* **Roll delivery** 
+* 
+Deploy: https://roll-delivery.netlify.app/
 
 Repository: https://github.com/NataliaK96/roll-delivery
 
 Для разработки использовались: React, MobX, MST, TypeScript, Ant Design
 
-* **Todolist** https://todolist-nataliak96.netlify.app/
+* **Todolist** 
+* 
+Deploy: https://todolist-nataliak96.netlify.app/
 
 Repository: https://github.com/NataliaK96/todolist
 
 Для разработки использовались: React, MobX, TypeScript, Material-UI
 
-* **Songbird game** https://nataliak96-songbird.netlify.app/
+* **Songbird game** 
+* 
+Deploy: https://nataliak96-songbird.netlify.app/
 
 Repository: https://github.com/NataliaK96/songbird
 
