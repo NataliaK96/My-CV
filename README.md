@@ -22,13 +22,39 @@ https://app.rs.school/certificate/8y7byf39
  HTML(HTML5), JavaScript, ES6, CSS(CSS3), SASS, React, Git, Адаптивный веб-дизайн, Кроссбраузерная верстка, Self-management
 
 ### Tools
-Photoshop, Bootstrap, Material-UI, Ant Design
+Photoshop, Bootstrap, Material-UI, Ant Design, Trello, Figma, Prettier
 
 Есть навыки работы с REST API, TypeScript, MobX, MST, Redux
 При работе с сервером использовала fetch, axios
 При работе с Redux использовала redux-thunk, redux-form, reselect
 
-## Опыт работы
+### Мои проекты
+
+- Roll delivery https://roll-delivery.netlify.app/
+
+Repository: https://github.com/NataliaK96/roll-delivery
+
+Для разработки использовались: React, MobX, MST, TypeScript, Ant Design
+
+- Todolist https://todolist-nataliak96.netlify.app/
+
+Repository: https://github.com/NataliaK96/todolist
+
+Для разработки использовались: React, MobX, TypeScript, Material-UI
+
+- Social network
+
+Repository: https://github.com/NataliaK96/social-network
+
+Для разработки использовались: React, Redux, redux-thunk, redux-form, reselect, axios, SASS, Material-UI
+
+- Songbird game https://nataliak96-songbird.netlify.app/
+
+Repository: https://github.com/NataliaK96/songbird
+
+Для разработки использовались: React, SASS, Material-UI
+
+### Опыт работы
 #### Учитель математики
 Ноябрь 2019 — март 2020, МБОУ "Матвеевская основная общеобразовательная школа" Сорочинского городского округа Оренбургской области
 #### Методист
